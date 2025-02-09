@@ -73,7 +73,7 @@ pagination.pagerSize = 5
     title = "Boiler Web Group"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
+      subtitle = "Helping clubs grow their online presence"
       owner = ""
       keywords = ""
       copyright = ""
@@ -101,10 +101,10 @@ pagination.pagerSize = 5
         #   name = "Showcase"
         #   url = "/showcase"
 
-[module]
+# [module]
   # In case you would like to make changes to the theme and keep it locally in you repository,
   # uncomment the line below (and correct the local path if necessary).
   # --
-  replacements = "github.com/panr/hugo-theme-terminal/v4 -> themes/terminal"
+  # replacements = "github.com/panr/hugo-theme-terminal/v4 -> themes/terminal"
 # [[module.imports]]
   # path = 'github.com/panr/hugo-theme-terminal/v4'
