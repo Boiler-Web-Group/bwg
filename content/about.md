@@ -7,11 +7,11 @@ title = 'Meet our Team'
 ### Jacob Beene 
 {{< image src="/memberpictures/jacobprofile.jpg" alt="John Doe" width="70%">}}
 **Position:** President  
-Jacob specializes in backend development and design. He is a current CS senior at Purdue University focusing on Software Engineering and Machine Intelligence.
+Jacob specializes in Full-Stack Development and design. He is a senior Computer Science student at Purdue University, focusing on Software Engineering and Machine Intelligence.
 
 ---
 
 ### Edward Potapov
 {{< image src="/memberpictures/edwardprofile.jpg" alt="John Doe" width="70%">}}
 **Position:** Vice President  
-Edward is a frontend developer. He is in his senior year at Purdue University. His intresests lie in systems software, programming languages, and web development.
+Edward is a Full-Stack Developer in his senior year at Purdue University. He is interested in systems software, programming languages, and web development.
