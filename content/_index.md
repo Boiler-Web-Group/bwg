@@ -14,6 +14,6 @@ We help Purdue clubs establish and grow their online presence. Whether you need 
 ✅ **Hosting & Maintenance** – Keep your site running smoothly  
 ✅ **Design & Branding** – Create a unique identity  
 
-## 📬 Get in Touch
+### 📬 Get in Touch[](#contact)
 
 {{< contact-form >}}
