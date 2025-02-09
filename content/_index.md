@@ -15,5 +15,5 @@ We help Purdue clubs establish and grow their online presence. Whether you need 
 ✅ **Design & Branding** – Create a unique identity  
 
 ## 📬 Get in Touch
-If your Purdue club needs a website, [contact us](mailto:your-email@purdue.edu)!  
-Or follow us on [Twitter](https://twitter.com) | [Instagram](https://instagram.com) | [LinkedIn](https://linkedin.com).
+
+{{< contact-form >}}

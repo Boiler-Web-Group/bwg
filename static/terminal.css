@@ -370,3 +370,22 @@ th,
 button {
   font-weight: 600;
 }
+
+
+/* Additional css */
+form {
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+input, textarea {
+  width: 100%;
+  padding: 15px;
+  margin-top: 5px;
+  resize: none;
+}
+
+.formlabel {
+  padding-bottom: 10px;
+}

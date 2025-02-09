@@ -70,7 +70,7 @@ pagination.pagerSize = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Boiler Web Group"
 
     [languages.en.params]
       subtitle = "A simple, retro theme for Hugo"
@@ -94,10 +94,10 @@ pagination.pagerSize = 5
       [languages.en.menu]
         [[languages.en.menu.main]]
           identifier = "about"
-          name = "About"
+          name = "About Us"
           url = "/about"
-        [[languages.en.menu.main]]
-          identifier = "showcase"
-          name = "Showcase"
-          url = "/showcase"
+        # [[languages.en.menu.main]]
+        #   identifier = "showcase"
+        #   name = "Showcase"
+        #   url = "/showcase"
 
